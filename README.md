@@ -53,33 +53,33 @@ Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agi
 
 ### Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian (IkerGazte 2021)
 Joseba Fernandez de Landa, Iker García-Ferrero, Ander Salaberria, Jon Ander Campos  
-[http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf](http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf)
-[https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021](https://github.com/ikergarcia1996/Ikergazte-Covid-Twitter-2021)
+
+[PDF](http://ixa.si.ehu.eus/sites/default/files/dokumentuak/13327/Sare_sozialen_analisia_pandemia_garaian.pdf)
 ```
 @inproceedings{ikergazte_twitter_covid, 
-doi = {10.26876/ikergazte.iv.03.17}, 
-url = {https://doi.org/10.26876%2Fikergazte.iv.03.17}, 
-year = 2021, month = {jun},
-publisher = {Udako Euskal Unibertsitatea}, 
-author = {Joseba Fernandez de Landa Aguirre and Iker García-Ferrero and Ander Salaberria Saizar and Jon Ander Campos Tejedor}, 
-title = {Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian}, 
-booktitle = {IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
+  doi = {10.26876/ikergazte.iv.03.17}, 
+  url = {https://doi.org/10.26876%2Fikergazte.iv.03.17}, 
+  year = 2021, month = {jun},
+  publisher = {Udako Euskal Unibertsitatea}, 
+  author = {Joseba Fernandez de Landa Aguirre and Iker García-Ferrero and Ander Salaberria Saizar and Jon Ander Campos Tejedor}, 
+  title = {Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian}, 
+  booktitle = {IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
 }
 ```
 
 ### Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua (IkerGazte 2021)
 Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de Landa  
-[https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf](https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf)
+[PDF](https://ixa.ehu.eus/sites/default/files/dokumentuak/13328/Itzulpen_automatikoko_sistemen_joeraren_analisia__generoaren_kasua.pdf)
 ```
 @inproceedings{ikergazte_itzulpen_genero, 
-doi = {10.26876/ikergazte.iv.03.19}, 
-url = {https://doi.org/10.26876%2Fikergazte.iv.03.19}, 
-year = 2021, 
-month = {jun}, 
-publisher = {Udako Euskal Unibertsitatea}, 
-author = {Ander Salaberria Saizar and Jon Ander Campos Tejedor and Iker García-Ferrero and Joseba Fernandez de Landa Aguirre}, 
-title = {Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua}, 
-booktitle = {IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
+  doi = {10.26876/ikergazte.iv.03.19}, 
+  url = {https://doi.org/10.26876%2Fikergazte.iv.03.19}, 
+  year = 2021, 
+  month = {jun}, 
+  publisher = {Udako Euskal Unibertsitatea}, 
+  author = {Ander Salaberria Saizar and Jon Ander Campos Tejedor and Iker García-Ferrero and Joseba Fernandez de Landa Aguirre}, 
+  title = {Itzulpen Automatikoko Sistemen Analisia: Genero Alborapenaren Kasua}, 
+  booktitle = {IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu bilduma. Ingeniaritza eta Arkitektura}
 }
 ```
 
