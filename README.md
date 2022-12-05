@@ -17,7 +17,7 @@
 
 ### Image captioning for effective use of language models in knowledge-based visual question answering (Expert Systems With Applications 2023)
 Ander Salaberria and Gorka Azkune and Oier {Lopez de Lacalle} and Aitor Soroa and Eneko Agirre
-[https://www.sciencedirect.com/science/article/abs/pii/S0957417422017055](Science Direct) // [https://arxiv.org/abs/2109.08029](arXiv)
+[Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S0957417422017055) // [arXiv](https://arxiv.org/abs/2109.08029)
 ```
 @article{SALABERRIA2023118669,
   title = {Image captioning for effective use of language models in knowledge-based visual question answering},
@@ -35,7 +35,7 @@ Ander Salaberria and Gorka Azkune and Oier {Lopez de Lacalle} and Aitor Soroa an
 
 ### Evaluating Multimodal Representations on Visual Semantic Textual Similarity (ECAI 2020)
 Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre
-[https://arxiv.org/abs/2004.01894](arxiv)
+[arXiv](https://arxiv.org/abs/2004.01894)
 ```
 @incollection{lopez2020evaluating,
   title={Evaluating Multimodal Representations on Visual Semantic Textual Similarity},
