@@ -87,5 +87,5 @@ Ander Salaberria, Jon Ander Campos, Iker García-Ferrero, Joseba Fernandez de La
 
 ## Recognitions and awards
 - [Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021) by Udalbiltza](https://www.ueu.eus/ikergazte/blog/2021/06/14/baditugu-ikergazte2021-irabazleak/): The paper "Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian" was awarded the prize for the most relevant research for the development of the Basque Country at IkerGazte 2021.
-- Basque Government PhD grant
+- Basque Government PhD grant.
 
