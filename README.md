@@ -1,57 +1,49 @@
 <table>
   <tr>
-    <td> PHD Student in Natural Language Processing<br> <br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="https://www.ehu.eus/en/en-home">University of the Basque Country UPV/EHU</a> <br> <br> <a href="https://goo.gl/maps/xFPuPztQoACVJwaJ9"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="18" height="20" alt="Location"> Donostia-San Sebastián</a>  <br> <a href="mailto:iker.garciaf@ehu.eus"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/mail.png" width="18" height="18" alt="Location">iker.garciaf@ehu.eus</a>  <br>  <br> <a href="http://ixa.si.ehu.es/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
+    <td> PHD Student in Natural Language Processing<br> <br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="https://www.ehu.eus/en/en-home">University of the Basque Country UPV/EHU</a> <br> <br> <a href="https://goo.gl/maps/xFPuPztQoACVJwaJ9"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/location.png" width="18" height="20" alt="Location"> Donostia-San Sebastián</a>  <br> <a href="mailto:ander.salaberria@ehu.eus"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/mail.png" width="18" height="18" alt="Location">ander.salaberria@ehu.eus</a>  <br>  <br> <a href="http://ixa.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/ikergarcia1996/Iker-Garcia-Ferrero/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
     <td><img src="ProfileImage.jpeg"> </td>
   </tr>
  </table>
 
 ## Profiles
-* Twitter: [https://twitter.com/iker_garciaf](https://twitter.com/iker_garciaf)
-* Github: [https://github.com/ikergarcia1996](https://github.com/ikergarcia1996)
-* Linkedin: [https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/](https://www.linkedin.com/in/iker-garc%C3%ADa-ferrero-75343b172/)
-* Google Scholar: [https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl](https://scholar.google.es/citations?user=yoOzj1MAAAAJ&hl)
-* Semantic Scholar: [https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884](https://www.semanticscholar.org/author/Iker-Garc%C3%ADa-Ferrero/1453724884)
-* ORCID: [https://orcid.org/0000-0001-9612-7134](https://orcid.org/0000-0001-9612-7134)
+* Twitter: [https://twitter.com/AnderSala](https://twitter.com/AnderSala)
+* Github: [https://github.com/salanueva](https://github.com/salanueva)
+* Linkedin: [https://www.linkedin.com/in/ander-salaberria-3428481b3/](https://www.linkedin.com/in/ander-salaberria-3428481b3/)
+* Google Scholar: [https://scholar.google.es/citations?user=KyQMAxYAAAAJ&h1](https://scholar.google.es/citations?user=KyQMAxYAAAAJ&hl)
+* Semantic Scholar: [https://www.semanticscholar.org/author/Ander-Salaberria/1612386066](https://www.semanticscholar.org/author/Ander-Salaberria/1612386066)
+* ORCID: [https://orcid.org/0000-0002-4277-3939](https://orcid.org/0000-0002-4277-3939)
 
 ## Publications in English
 
-### Model Transfer or Data Transfer? Cross-Lingual Sequence Labelling in Zero-Resource Settings (Findings of the EMNLP 2022)
-Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-Accepted - Camera ready in progress
-
-### Benchmarking Meta-embeddings: What Works and What Does Not (Findings of the EMNLP 2021)
-Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-[https://aclanthology.org/2021.findings-emnlp.333](https://aclanthology.org/2021.findings-emnlp.333)   
-[https://github.com/ikergarcia1996/MetaVec](https://github.com/ikergarcia1996/MetaVec)
+### Image captioning for effective use of language models in knowledge-based visual question answering (Expert Systems With Applications 2023)
+Ander Salaberria and Gorka Azkune and Oier {Lopez de Lacalle} and Aitor Soroa and Eneko Agirre
+[https://www.sciencedirect.com/science/article/abs/pii/S0957417422017055](Science Direct) // [https://arxiv.org/abs/2109.08029](arXiv)
 ```
-@inproceedings{garcia-ferrero-etal-2021-benchmarking-meta,
-    title = "Benchmarking Meta-embeddings: What Works and What Does Not",
-    author = "Garc{\'\i}a-Ferrero, Iker  and
-      Agerri, Rodrigo  and
-      Rigau, German",
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
-    month = nov,
-    year = "2021",
-    address = "Punta Cana, Dominican Republic",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.findings-emnlp.333",
-    pages = "3957--3972",
+@article{SALABERRIA2023118669,
+  title = {Image captioning for effective use of language models in knowledge-based visual question answering},
+  journal = {Expert systemss with Applications},
+  volume = {212},
+  pages = {118669},
+  year = {2023},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2022.118669},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417422017055},
+  author = {Ander Salaberria and Gorka Azkune and Oier {Lopez de Lacalle} and Aitor Soroa and Eneko Agirre},
+  keywords = {Visual question answering, Image captioning, Language models, Deep learning}
 }
 ```
 
-### A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings (CoRR 2020)
-Iker García-Ferrero , Rodrigo Agerri, German Rigau  
-[https://arxiv.org/abs/2001.06381](https://arxiv.org/abs/2001.06381)   
-[https://github.com/ikergarcia1996/MVM-Embeddings](https://github.com/ikergarcia1996/MVM-Embeddings)
-
+### Evaluating Multimodal Representations on Visual Semantic Textual Similarity (ECAI 2020)
+Oier Lopez de Lacalle, Ander Salaberria, Aitor Soroa, Gorka Azkune and Eneko Agirre
+[https://arxiv.org/abs/2004.01894](arxiv)
 ```
-@article{garcia2020common,
- author = {García-Ferrero, Iker and Agerri, Rodrigo and Rigau, German},
- journal = {ArXiv preprint},
- title = {A Common Semantic Space for Monolingual and Cross-Lingual Meta-Embeddings},
- url = {https://arxiv.org/abs/2001.06381},
- volume = {abs/2001.06381},
- year = {2020}
+@incollection{lopez2020evaluating,
+  title={Evaluating Multimodal Representations on Visual Semantic Textual Similarity},
+  author={Lopez de Lacalle, Oier and Salaberria, Ander and Soroa, Aitor and Azkune, Gorka and Agirre, Eneko},
+  booktitle={ECAI 2020},
+  pages={1990--1997},
+  year={2020},
+  publisher={IOS Press}
 }
 ```
 
@@ -93,10 +85,4 @@ booktitle = {IV. Ikergazte. Nazioarteko ikerketa euskaraz. Kongresuko artikulu b
 ## Recognitions and awards
 - [Prize for the most relevant research for the development of the Basque Country (IkerGazte 2021) by Udalbiltza](https://www.ueu.eus/ikergazte/blog/2021/06/14/baditugu-ikergazte2021-irabazleak/): The paper "Twitterreko Euskal Komunitatearen Eduki Azterketa Pandemia Garaian" was awarded the prize for the most relevant research for the development of the Basque Country at ikerGazte 2021.
 - Basque Government PhD grant
-
-## Academic activity
-
-- Instructor in the Introduction to Language Technology Applications course: (1st edition, 2021) [http://www.ixa.eus/iltapp/](http://www.ixa.eus/iltapp/)
-- Instructor in the Introduction to Language Technology Applications course: (2nd edition, 2022) [http://www.ixa.eus/iltapp/](http://www.ixa.eus/iltapp/)
-- Talk at LITHME Training school 2021: Introducing HiTZ Group [https://lithme.eu/training-school/](https://lithme.eu/training-school/)
 
