@@ -1,4 +1,4 @@
-<table>
+<table class="center">
   <tr>
     <td> PHD Student in Natural Language Processing<br> <br> <a href="http://www.hitz.eus/">HiTZ Basque Center for Language Technologies</a><br> <a href="http://ixa.si.ehu.es/">Ixa NLP Group</a>  <br> <a href="https://www.ehu.eus/en/en-home">University of the Basque Country UPV/EHU</a> <br> <br> <a href="https://goo.gl/maps/xFPuPztQoACVJwaJ9"> <img src="https://raw.githubusercontent.com/salanueva/salanueva.github.io/master/icons/location.png" width="18" height="20" alt="Location"> Donostia-San Sebastián</a>  <br> <a href="mailto:ander.salaberria@ehu.eus"> <img src="https://raw.githubusercontent.com/salanueva/salanueva.github.io/master/icons/mail.png" width="18" height="18" alt="Location"> ander.salaberria@ehu.eus</a>  <br>  <br> <a href="http://ixa.eus/"> <img src="https://raw.githubusercontent.com/salanueva/salanueva.github.io/master/icons/ixa.png" width="50" height="50" alt="Ixa NLP Group"> </a>  <a href="http://www.hitz.eus/"> <img src="https://raw.githubusercontent.com/salanueva/salanueva.github.io/master/icons/Hitz.png" width="300" height="50" alt="HiTZ Basque Center for Language Technologies">  </a> </td>
     <td><img src="Ander Salaberria.jpg"> </td>
@@ -16,7 +16,7 @@
 ## Publications in English
 
 ### Image captioning for effective use of language models in knowledge-based visual question answering (Expert Systems With Applications 2023)
-Ander Salaberria and Gorka Azkune and Oier {Lopez de Lacalle} and Aitor Soroa and Eneko Agirre
+Ander Salaberria, Gorka Azkune, Oier Lopez de Lacalle, Aitor Soroa and Eneko Agirre
 
 [Science Direct](https://www.sciencedirect.com/science/article/abs/pii/S0957417422017055) // [arXiv](https://arxiv.org/abs/2109.08029)
 ```
